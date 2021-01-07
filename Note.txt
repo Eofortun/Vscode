@@ -1,0 +1,15 @@
+Fazer o ampli do warsper
+
+- Estrelas 
+- Dificuldade na ampliação conforme o nivel almenta
+
+function getRandomInt(min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min)) + min;
+}
+
+OQUE FALTA:
+
+ - INTERAGIR COM O OURO E O USO DE MICOINS E SELOS
+ - CONCERTAR O BUG ONDE MOSTRA O NOME DO EQUIPAMENTO
